@@ -68,6 +68,6 @@ body { line-height: 1.4; }
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
 
 /* On screens that are 992px or less*/
-@media screen and (max-width: 992px) { .header h2 { font-size: 2rem; } }
+@media screen and (max-width: 992px) { .header h2 { font-size: 1.5rem; } }
 
 /*# sourceMappingURL=main.css.map */
