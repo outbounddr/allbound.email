@@ -1,4 +1,20 @@
-$(document).ready(function(){
+$(document).ready(function () {
+    
+    $(window).scroll(function () {
+        //if you hard code, then use console
+        //.log to determine when you want the 
+        //nav bar to stick.  
+
+      if ($(window).scrollTop() > 520 && !window.matchMedia("(max-width: 992px)").matches) {
+        $('.aside > div').addClass('navbar-fixed');
+      }
+      if ($(window).scrollTop() < 521 && !window.matchMedia("(max-width: 992px)").matches) {
+        $('.aside > div').removeClass('navbar-fixed');
+      }
+    });
+
+
+
     $('.navbar-toggler').click(function(){
         $('.navbar-collapse').slideToggle(300);
     });
