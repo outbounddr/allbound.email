@@ -5,10 +5,10 @@ $(document).ready(function () {
         //.log to determine when you want the 
         //nav bar to stick.  
 
-      if ($(window).scrollTop() > 520 && !window.matchMedia("(max-width: 992px)").matches) {
+      if ($(window).scrollTop() > 540 && !window.matchMedia("(max-width: 992px)").matches) {
         $('.aside > div').addClass('navbar-fixed');
       }
-      if ($(window).scrollTop() < 521 && !window.matchMedia("(max-width: 992px)").matches) {
+      if ($(window).scrollTop() < 540 && !window.matchMedia("(max-width: 992px)").matches) {
         $('.aside > div').removeClass('navbar-fixed');
       }
     });
