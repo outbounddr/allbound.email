@@ -39,7 +39,7 @@
             </li>
 
             <li>
-                <a href="/guide/crm/index.html" class="menu-link">
+                <a href="#" class="menu-link">
                 The CRM Guide
                 <span class = "drop-icon">
                   <i class = "fas fa-chevron-down"></i>
@@ -50,6 +50,7 @@
                     <div class="sub-menu-item">
                         <h4>Strategy</h4>
                         <ul>
+                            <li><a href="/guide/crm/index.html">index</a></li>
                             <li><a href="#">ownership</a></li>
                             <li><a href="#">analytics</a></li>
                             <li><a href="#">goals</a></li>
@@ -200,23 +201,22 @@
 
 
     <style>
+
 body {
     background: #000;
-    color:#fff;
 }
-a {
-    color: #fff;
-    text-decoration: underline;
-}
+
 main {
     display: flex;
     flex-direction: row-reverse; 
-    width: 960px;
+    max-width: 960px;
 }
 .article {
     width: 75%; 
     min-height: 100px;
     padding: 10px;
+    color:#fff;
+
 }
 .aside {
     width: 25%;
@@ -224,6 +224,11 @@ main {
     border-left: 2px solid white;
     margin-left: 20px;
     padding-right: 20px;
+    color:#fff;
+}
+.article a, aside a {
+    color: #fff;
+    text-decoration: underline;
 }
 ul {
     list-style: none;
@@ -236,6 +241,7 @@ section {
 .header {
     height: calc(50vh - 75px);
 }
+
 /* On screens that are 992px or less*/
 @media screen and (max-width: 992px) {
     main {
@@ -244,8 +250,8 @@ section {
     .article {
         width: 100%; 
     }
-    .aside {    
-        width: 100%; 
+    .header-post {
+        margin-top: 145px;
     }
 }
 </style>
