@@ -88,6 +88,6 @@ section { display: flex; justify-content: center; }
 .header-post { height: calc(50vh - 75px); }
 
 /* On screens that are 992px or less*/
-@media screen and (max-width: 992px) { main { flex-direction: column; } .header h2 { font-size: 2.5rem; margin-top: 150px; } .header-post h2 { font-size: 2.5rem; margin-top: 0px; } .article { width: 100%; } .header-post { margin-top: 145px; margin-bottom: 65px; } }
+@media screen and (max-width: 992px) { main { flex-direction: column; } .header h2 { font-size: 2.5rem; margin-top: 75px; } .header-post h2 { font-size: 2.5rem; margin-top: 0px; } .article { width: 100%; } .header-post { margin-top: 145px; margin-bottom: 65px; } }
 
 /*# sourceMappingURL=main.css.map */
