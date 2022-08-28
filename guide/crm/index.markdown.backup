@@ -192,19 +192,15 @@
                     <div class="sub-menu-item">
                         <h4>Inbound Fundamentals</h4>
                         <ul>
-                            <li><a href="#">What is a flywheel?</a></li>
-                            <li><a href="#">Funnels and Flywheels</a></li>
                             <li><a href="#">Inbound principles</a></li>
                             <li><a href="#">Inbound methodology</a></li>
-                            <li><a href="#">manicure & pedicure</a></li>
+                            <li><a href="#">Manicure & pedicure</a></li>
                         </ul>
                         <h4>Importance of purpose</h4>
                         <ul>
                             <li><a href="#">Identifying your purpose</a></li>
                             <li><a href="#">Why do you need goals?</a></li>
                             <li><a href="#">Align goals with your purpose</a></li>
-                            <li><a href="#">Prioritise short-term goals</a></li>
-                            <li><a href="#">Prioritise long-term goals</a></li>
                         </ul>
                         <h4>Buyer persona</h4>
                         <ul>
@@ -212,21 +208,21 @@
                             <li><a href="#">Create a buyer's journey</a></li>
                             <li><a href="#">Your Buyer Personas</a></li>
                         </ul>
-                    </div>
-                    <!-- end of item -->
-                    <!-- item -->
-                    <div class="sub-menu-item">
                         <h4>Content Creation</h4>
                         <ul>
                             <li><a href="#">The buyer's journey?</a></li>
                             <li><a href="#">Your Buyer Personas</a></li>
                             <li><a href="#">The 5 Big Questions</a></li>
-                            <li><a href="#">Cost and pricing.</a></li>
-                            <li><a href="#">Problems (theirs and yours).</a></li>
-                            <li><a href="#">Comparisons and versus.</a></li>
-                            <li><a href="#">Best of lists (best in class, best practices).</a></li>
-                            <li><a href="#">Reviews.</a></li>
+                            <li><a href="#">Cost and pricing</a></li>
+                            <li><a href="#">Problems (theirs and yours)</a></li>
+                            <li><a href="#">Comparisons and versus</a></li>
+                            <li><a href="#">Best in class</a></li>
+                            <li><a href="#">Reviews</a></li>
                         </ul>
+                    </div>
+                    <!-- end of item -->
+                    <!-- item -->
+                    <div class="sub-menu-item">
                         <h4>The Landing Page</h4>
                         <ul>
                             <li><a href="#">5 principles</a></li>
@@ -234,13 +230,26 @@
                         </ul>
                         <h4>The Email Campaign</h4>
                         <ul>
+                            <li><a href="#">market research</a></li>
                             <li><a href="#">Segmenting 101</a></li>
                             <li><a href="#">Keep your list healthy</a></li>
-                            <li><a href="#">market research</a></li>
                             <li><a href="#">Different email strategy models</a></li>
                             <li><a href="#">​Campaign Mapping</a></li>
+                        </ul>
+                        <h4>Email Copywriting Fundamentals</h4>
+                        <ul>
                             <li><a href="#">Email copy and strategy</a></li>
-                            <li><a href="#"></a>Closing The Deal & Delivering Results</a></li>
+                            <li><a href="#">market research</a></li>
+                            <li><a href="#">Drip Campaigns</a></li>
+                            <li><a href="#">Email Newsletters</a></li>
+                            <li><a href="#">The Daily Email</a></li>
+                            <li><a href="#">B2B Sales Emails</a></li>
+                        </ul>
+                        <h4>Closing The Deal & Delivering Results</h4>
+                        <ul>
+                            <li><a href="#">Get clients to apply for speaking to you </a></li>
+                            <li><a href="#">How to mentally prepare yourself for the sales call</a></li>
+                            <li><a href="#">How to close deals and get paid</a></li>
                         </ul>
                     </div>
                     <!-- end of item -->
