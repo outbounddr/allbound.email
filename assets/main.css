@@ -71,7 +71,9 @@ body { line-height: 1.4; }
 
 body { background: #000; }
 
-main { display: flex; flex-direction: row-reverse; max-width: 960px; }
+main { display: flex; flex-direction: row-reverse; max-width: 960px; justify-content: center; color: #fff; }
+
+main.front ul { box-sizing: border-box; padding: 20px; }
 
 .article { width: 75%; min-height: 100px; padding: 10px; color: #fff; }
 
@@ -83,9 +85,9 @@ ul { list-style: none; }
 
 section { display: flex; justify-content: center; }
 
-.header { height: calc(50vh - 75px); }
+.header-post { height: calc(50vh - 75px); }
 
 /* On screens that are 992px or less*/
-@media screen and (max-width: 992px) { main { flex-direction: column; } .header h2 { font-size: 2.5rem; } .article { width: 100%; } .header-post { margin-top: 145px; margin-bottom: 65px; } }
+@media screen and (max-width: 992px) { main { flex-direction: column; } .header h2 { font-size: 2.5rem; margin-top: 150px; } .header-post h2 { font-size: 2.5rem; margin-top: 0px; } .article { width: 100%; } .header-post { margin-top: 145px; margin-bottom: 65px; } }
 
 /*# sourceMappingURL=main.css.map */
