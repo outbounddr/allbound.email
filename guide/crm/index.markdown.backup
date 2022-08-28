@@ -50,7 +50,7 @@
                     <div class="sub-menu-item">
                         <h4>Implementation Plan</h4>
                         <ul>
-                            <li><a href="#">Setup CRM</a></li>
+                            <li><a href="/guide/crm/index.html">Setup CRM</a></li>
                             <li><a href="#">Setup Email Marketing</a></li>
                             <li><a href="#">Checklist</a></li>
                         </ul>
