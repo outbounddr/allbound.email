@@ -69,7 +69,23 @@ body { line-height: 1.4; }
 
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
 
+body { background: #000; }
+
+main { display: flex; flex-direction: row-reverse; max-width: 960px; }
+
+.article { width: 75%; min-height: 100px; padding: 10px; color: #fff; }
+
+.aside { width: 25%; padding: 10px; border-left: 2px solid white; margin-left: 20px; padding-left: 30px; color: #fff; }
+
+.article a, .aside div a { color: #fff; text-decoration: underline; }
+
+ul { list-style: none; }
+
+section { display: flex; justify-content: center; }
+
+.header { height: calc(50vh - 75px); }
+
 /* On screens that are 992px or less*/
-@media screen and (max-width: 992px) { .header h2 { font-size: 1.5rem; } }
+@media screen and (max-width: 992px) { main { flex-direction: column; } .header h2 { font-size: 2.5rem; } .article { width: 100%; } .header-post { margin-top: 145px; margin-bottom: 65px; } }
 
 /*# sourceMappingURL=main.css.map */
