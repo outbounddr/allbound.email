@@ -47,7 +47,7 @@ body { line-height: 1.4; }
 
 .sub-menu-item:nth-child(3) .btn:hover { background: transparent; color: #000; }
 
-.sub-menu-item:nth-child(4) { width: 50%; margin: 0 auto; padding: 2rem 0; }
+.sub-menu-item:nth-child(4) { width: 50%; margin: 0 auto; padding: 2rem 0; display: flex; justify-content: center; align-items: center; }
 
 /* header */
 .header { _background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://source.unsplash.com/g-kNBpqMIs4/1920x1400) center/cover no-repeat; background-color: #000; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; }

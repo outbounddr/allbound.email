@@ -50,8 +50,7 @@
                     <div class="sub-menu-item">
                         <h4>Strategy</h4>
                         <ul>
-                            <li><a href="/guide/crm/index.html">index</a></li>
-                            <li><a href="#">Data organisation</a></li>
+                            <li><a href="/guide/crm/index.html">Data organisation</a></li>
                             <li><a href="#">Data intergration</a></li>
                             <li><a href="#">Data compliance</a></li>
                             <li><a href="#">Data input</a></li>
@@ -68,22 +67,23 @@
                     <!-- end of item -->
                     <!-- item -->
                     <div class="sub-menu-item">
+                        <h4>KPI's</h4>
+                        <ul>
+                            <li><a href="#">Lead quality</a></li>
+                            <li><a href="#">Oppertunities</a></li>
+                            <li><a href="#">Sales performance</a></li>
+                            <li><a href="#">Profit per customer</a></li>
+                            <li><a href="#">Business growth</a></li>
+                            <li><a href="#">Conversion rate</a></li>
+                            <li><a href="#">Customer satisfaction</a></li>
+                            <li><a href="#">Retention</a></li>
+                        </ul>
                         <h4>Analytics</h4>
                         <ul>
-                            <li><a href="#">KPI's</a></li>
                             <li><a href="#">Forecasting</a></li>
                             <li><a href="#">Trends</a></li>
                             <li><a href="#">Mining</a></li>
-                            <li><a href="#">Oppertunities</a></li>
-                            <li><a href="#">Conversion rate</a></li>
-                            <li><a href="#">Business growth</a></li>
-                            <li><a href="#">Retention</a></li>
-                            <li><a href="#">Profit per customer</a></li>
-                            <li><a href="#">Sales performance</a></li>
-                            <li><a href="#">Customer satisfaction</a></li>
                             <li><a href="#">Data usage</a></li>
-                            <li><a href="#">Lead quality</a></li>
-                            <li><a href="#">Fulfillment</a></li>
                         </ul>
                     </div>
                     <!-- end of item -->
