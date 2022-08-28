@@ -73,7 +73,7 @@ body { background: #000; }
 
 main { display: flex; flex-direction: row-reverse; max-width: 960px; justify-content: center; color: #fff; }
 
-main.front ul { box-sizing: border-box; padding: 20px; }
+main ul { box-sizing: border-box; padding: 20px; }
 
 .article { width: 75%; min-height: 100px; padding: 10px; color: #fff; }
 
